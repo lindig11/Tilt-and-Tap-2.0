@@ -95,4 +95,6 @@ var moveType =
 plugin.TwoDimensionalTilt(cssClassName, container, moveType, tap, elements, onEnter_callback, onExit_callback);
 ```
 
-### DEMO **TODO**
+## Options
+
+For more details and options, please visit the [Wiki](https://github.com/lindig11/TiandTa/wiki/Options).
