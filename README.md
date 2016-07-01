@@ -9,6 +9,9 @@ Table of Contents
 + [Example Usage](#example-usage) 
 + [Options](https://github.com/lindig11/TiandTa/wiki/Options) 
 
+## Motivation
+The idea is to make it easier to develop motion-sensitive websites. By enhancing websites with motion gestures, we allow for new kinds of interactions and improved user experience. Obvious simple usages are scrolling in on dimension (instead of swiping), little browser games, and more.
+
 ## Installation
 Include the script somewhere in your webpage. Within the **<head>** is recommended.
 
