@@ -4,6 +4,7 @@ Tilt-And-Tap JavaScript Plugin
 
 Table of Contents
 -
++ [Motivation](#motivation)
 + [Installation](#installation)
 + [The Two Dimensional Use Case](#the-two-dimensional-use-case) 
 + [Example Usage](#example-usage) 
