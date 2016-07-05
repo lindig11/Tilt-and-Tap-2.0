@@ -8,7 +8,8 @@ Table of Contents
 + [Installation](#installation)
 + [The Two Dimensional Use Case](#the-two-dimensional-use-case) 
 + [Example Usage](#example-usage) 
-+ [Options](https://github.com/lindig11/TiandTa/wiki/Options) 
++ [Options](https://github.com/lindig11/TiandTa/wiki/Options)
++ [Demos](#demos)
 
 ## Motivation
 The idea is to make it easier to develop motion-sensitive websites. By enhancing websites with motion gestures, we allow for new kinds of interactions and improved user experience. Obvious simple usages are scrolling in on dimension (instead of swiping), little browser games, and more.
@@ -98,3 +99,9 @@ plugin.TwoDimensionalTilt(cssClassName, container, moveType, tap, elements, onEn
 ## Options
 
 For more details and options, please visit the [Wiki](https://github.com/lindig11/TiandTa/wiki/Options).
+
+## Demos
+
++ [BalanceBoard](https://silversilence.github.io/?movement=balanceBoard)
++ [ConstantSpeed](https://silversilence.github.io/?movement=constantMove)
++ [MappedContainer](https://silversilence.github.io/?movement=mappedContainer)
