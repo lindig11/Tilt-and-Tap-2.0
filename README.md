@@ -1,5 +1,5 @@
-# TiandTa
-Tilt-And-Tap JavaScript Plugin
+# WebGravity
+Continuous Tilting Interactions JavaScript Plugin
 =
 
 Table of Contents
