@@ -1,0 +1,6 @@
+{
+  "name": "Webgravity",
+  "tagline": "WebGravity",
+  "body": "### Motivation.\r\nThe idea is to make it easier to develop motion-sensitive websites. By enhancing websites with motion gestures, we allow for new kinds of interactions and improved user experience. Obvious simple usages are scrolling in on dimension (instead of swiping), little browser games, and more.\r\n\r\n### Demos\r\nTry out some of our demos here:\r\n\r\n[balance board] (https://silversilence.github.io/?movement=balanceBoard)\r\n\r\n[constant move] (https://silversilence.github.io/?movement=constantMove)\r\n\r\n[mapped container] (https://silversilence.github.io/?movement=mappedContainer)\r\n\r\n### Authors and Contributors\r\n\r\nThis work is the output of a bachelor thesis developed by Andrea Canonica (@SilverSilence) and supervised by Linda Di Geronimo (@lindig11) at #ETH Zurich, Switzerland.\r\n\r\n### Support or Contact\r\nHaving trouble with WebGravity? Check out our [documentation](https://github.com/lindig11/WebGravity) or [contact support](https://globis.ethz.ch/#!/person/linda-di-geronimo/) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
