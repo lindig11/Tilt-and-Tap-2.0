@@ -1,4 +1,4 @@
-# WebGravity
+# TAT2.0
 Continuous Tilting Interactions JavaScript Plugin
 =
 
