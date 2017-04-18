@@ -18,7 +18,7 @@ The idea is to make it easier to develop motion-sensitive websites. By enhancing
 Include the script somewhere in your webpage. Within the **<head>** is recommended.
 
 ```javascript
-<script src="/path/to/tiltandtap.js"></script>
+<script src="/path/to/webgravity.js"></script>
 ```
 
 ## The Two Dimensional Use Case
