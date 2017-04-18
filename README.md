@@ -1,4 +1,4 @@
-# TAT2.0
+# WebGravity
 Continuous Tilting Interactions JavaScript Plugin
 =
 
@@ -61,7 +61,7 @@ Used when an object should move within a specified (two dimensional) area. In th
 
 #### JavaScript
 ```javascript
-var plugin = new TiltAndTap();
+var plugin = new webgravity();
 
 var container = document.getElementById("container");
 var elements = document.getElementsByClassName("elem");
