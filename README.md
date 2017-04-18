@@ -29,7 +29,7 @@ The plugin can be used for an application that wants to move an object in two di
 The setup looks as follows:
 
 ```javascript
-var plugin = new TiltAndTap();
+var plugin = new webgravity();
 
 //TwoDimensionalTilt
 plugin.TwoDimensionalTilt(indicatorClassName, container, moveType, tap, elements, onEnter_callback, onExit_callback);
