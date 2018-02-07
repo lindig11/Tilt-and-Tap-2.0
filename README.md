@@ -61,7 +61,7 @@ Used when an object should move within a specified (two dimensional) area. In th
 
 #### JavaScript
 ```javascript
-var plugin = new webgravity();
+var plugin = new TiltAndTap();
 
 var container = document.getElementById("container");
 var elements = document.getElementsByClassName("elem");
